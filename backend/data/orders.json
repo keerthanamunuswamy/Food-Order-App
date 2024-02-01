@@ -1,0 +1,42 @@
+[
+    {
+        "items": [
+            {
+                "id": "m1",
+                "name": "Mac & Cheese",
+                "price": "8.99",
+                "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
+                "image": "images/mac-and-cheese.jpg",
+                "quantity": 1
+            }
+        ],
+        "customer": {
+            "name": "Keerthana",
+            "email": "keerthanamunuswamy@gmail.com",
+            "street": "7/118, Bharathi street, Cantonment Pallvaram ",
+            "postal-code": "600043",
+            "city": "chennai"
+        },
+        "id": "437.9208506733878"
+    },
+    {
+        "items": [
+            {
+                "id": "m7",
+                "name": "Steak Frites",
+                "price": "17.99",
+                "description": "Succulent steak cooked to your preference, served with crispy golden fries and herb butter.",
+                "image": "images/steak-frites.jpg",
+                "quantity": 1
+            }
+        ],
+        "customer": {
+            "name": "Sona",
+            "email": "abc@gmail.com",
+            "street": "45 Street, chrompet",
+            "postal-code": "600037",
+            "city": "Chennai"
+        },
+        "id": "2.0369062674545635"
+    }
+]
